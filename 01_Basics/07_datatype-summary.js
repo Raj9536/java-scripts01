@@ -30,3 +30,17 @@ console.log(typeof bigNumber);
 
 console.log(typeof myFunction);
  console.log(typeof anotherId);
+
+
+
+ // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+ // stack (primitive), Heap (non primitive)
+
+ let myYoutubename = "MouryajiUK06"
+
+
+ let anothername = "MouryajiUK06"
+
+ console.log(anothername);
