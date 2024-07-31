@@ -27,4 +27,3 @@ console.log(newStringOne.trim());
 const url = "https://raj.com/okdotcom"
 console.log(url.replace('raj', 'kumar'))
 
-  
